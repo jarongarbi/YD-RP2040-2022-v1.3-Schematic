@@ -2,4 +2,5 @@
 ------------------------------------------------------------------------------
 ## Instructions:
 Download Zip Folder and Extract for Project Files
+
 Open the Project via the KiCad Project File (file extension .kicad_pro)
